@@ -1,0 +1,15 @@
+[
+    "/login",
+    "/login/callback",
+    "/logout",
+    "login\\.html$",
+    "login\\.css$",
+    "shared\\.css$",
+    "bg\\.png$",
+    "login\\.js$",
+    "login\\.js\\.map$",
+    "shared\\.js$",
+    "shared\\.js\\.map$",
+    "fontawesome-webfont",
+    "favicon\\.ico"
+]

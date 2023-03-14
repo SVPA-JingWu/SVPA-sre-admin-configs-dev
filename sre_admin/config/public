@@ -1,0 +1,8 @@
+[
+    "/retailers(/[-0-9A-Za-z]+)/stores(/[-0-9A-Za-z]+(/update/(content|software|promo)))",
+    "/retailers(/[-0-9A-Za-z]+)/stores(/[-0-9A-Za-z]+/devices)",
+    "/content/(images|videos|audios)/?",
+    "/reports/retailers/([-0-9A-Za-z]+)/summary/?",
+    "/device/types/?",
+    "/healthCheck/?"
+]

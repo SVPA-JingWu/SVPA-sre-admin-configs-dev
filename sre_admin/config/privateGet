@@ -1,0 +1,15 @@
+[
+    "^[/]$",
+    "^/src/?",
+    "^/res/?",
+    "^/config/?",
+    "^/retailers/?",
+    "^/stores/?",
+    "^/authenticated/?",
+    "^/reports/?",
+    "^/device/types/?",
+    "^/content/search/?",
+    "^/history/?",
+    "^/settings/?",
+    "^/darwin/retailers/?"
+  ]

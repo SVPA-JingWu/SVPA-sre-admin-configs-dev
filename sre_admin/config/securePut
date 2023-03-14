@@ -1,0 +1,4 @@
+[
+    "/darwin/(configs|images|videos|others)/?",
+    "/darwin/promo/content/?"
+]
