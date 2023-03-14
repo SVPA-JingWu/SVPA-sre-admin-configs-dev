@@ -1,0 +1,18 @@
+type: app_config
+
+envs:
+  - region: us-west-2
+    name: sreadmin-dev
+  - region: us-west-2
+    name: sreadmin-jing
+
+release_tag_map:
+  fluentd_mongodb: ""
+  fluentd_sreadmin: ""
+  fluentd_sreadmindocs: ""
+  fluentd_sreapi: ""
+  fluentd_sremap: ""
+  fluentd_sreutil: ""
+  mongodb: ""
+  sre_admin: ""
+  sre_map: ""
